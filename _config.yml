@@ -21,12 +21,12 @@ github_url: https://github.com/jennyrabbit/
 url: https://jennyrabbit/jennyrabbit.github.io
 
 sfblog_url: https://segmentfault.com/u/baihe
-zhihu_url: https://www.zhihu.com/people/mystudytime
-base_url: https://www.studytime.xin
-#base_url: http://wangqiyi.me
+#zhihu_url: https://www.zhihu.com/people/mystudytime
+#base_url: https://www.studytime.xin
+base_url: http://wangqiyi.me
 baseurl: ''
-enforce_ssl: https://www.studytime.xin
-#enforce_ssl: http://wangqiyi.me
+#enforce_ssl: https://www.studytime.xin
+enforce_ssl: http://wangqiyi.me
 static-url-version: 20200315
 
 ## Gem
